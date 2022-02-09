@@ -1,0 +1,83 @@
+[
+  {
+    "id": 1,
+    "name": "Dan Radcliffe",
+    "role": "Harry Potter",
+    "age": 32,
+    "country": "United Kingdom",
+    "demand": 242400,
+    "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/Daniel_Radcliffe_in_July_2015.jpg/800px-Daniel_Radcliffe_in_July_2015.jpg"
+  },
+  {
+    "id": 2,
+    "name": "Emma Watson",
+    "role": "hamani granger",
+    "age": 31,
+    "country": "France",
+    "demand": 142400,
+    "img": "https://c4.wallpaperflare.com/wallpaper/365/375/625/emma-charlotte-duerre-watson-portrait-em-emma-watson-wallpaper-preview.jpg"
+  },
+  {
+    "id": 3,
+    "name": "Rupert Grint",
+    "role": "Ron Weasley",
+    "age": 32,
+    "country": "United Kingdom",
+    "demand": 342400,
+    "img": "https://www.gannett-cdn.com/presto/2019/08/15/USAT/802e6fbd-9905-4455-8e1d-52382df19bd5-XXX_Rupert_Grint_rd319.JPG?width=1200&disable=upscale&format=pjpg&auto=webp"
+  },
+  {
+    "id": 4,
+    "name": "Alan Rickman",
+    "role": "proff-Severus Snape",
+    "age": 70,
+    "country": "United Kingdom",
+    "demand": 42400,
+    "img": "https://media.gq-magazine.co.uk/photos/5d1398ac41f50e4c658c4657/3:4/w_876,h_1168,c_limit/GQ-Jul-1992-Alan-Rickman-hp-GQ-13Jan16_Gerald_Forster_b.jpg"
+  },
+  {
+    "id": 5,
+    "name": "Tom Felton",
+    "role": "Draco Malfoy",
+    "age": 34,
+    "country": "United Kingdom",
+    "demand": 142400,
+    "img": "https://i.guim.co.uk/img/media/82c9139e0b82409a99fb3de5cdedc8ff5e6d8056/0_835_3000_1799/master/3000.jpg?width=465&quality=45&auto=format&fit=max&dpr=2&s=5fa30cd0761da89e27875a3dd0cac64f"
+  },
+  {
+    "id": 6,
+    "name": "Robbie Coltrane",
+    "role": " Rubeus Hagrid ",
+    "age": 50,
+    "country": "United Kingdom",
+    "demand": 12400,
+    "img": "https://thumbs.dreamstime.com/z/robbie-coltrane-26290194.jpg"
+  },
+  {
+    "id": 7,
+    "name": "Richard Harris",
+    "role": "proff-Albus dumbeldor",
+    "age": 70,
+    "country": "United Kingdom",
+    "demand": 42400,
+    "img": "https://www.bigredbook.info/images/richardharris.jpg"
+  },
+  {
+    "id": 8,
+    "name": "Richard Griffiths",
+    "role": "proff-Vernon Dursley",
+    "age": 60,
+    "country": "United Kingdom",
+    "demand": 2400,
+    "img": "https://3.bp.blogspot.com/-kCWTmSDF3NA/WIvedcee2iI/AAAAAAAAUxk/zIaks9DWfus-yXAKhzRg-VlwU_efCS3IQCLcB/s1600/richard-griffiths.jpg"
+  },
+  {
+    "id": 9,
+    "name": "Bonnie Wright",
+    "role": " Ginny Weasley",
+    "age": 35,
+    "country": "United Kingdom",
+    "demand": 42400,
+    "img": "https://upload.wikimedia.org/wikipedia/commons/3/3b/Bonnie_Wright_by_Gage_Skidmore.jpg"
+  }
+]
